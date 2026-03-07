@@ -1,0 +1,28 @@
+.calc{
+background-color: rgba(66, 112, 159, 0.795) ;
+text-align: center;
+margin: 24px;
+padding: 15px;
+border-style:solid ;
+border-width: 6px;
+}
+.userbuttons{
+background-color: rgba(66, 113, 159, 0.814);
+margin: 24px;
+padding: 15px;
+}
+#num1 , #num2{
+    text-align: center ;
+ background-color: rgba(111, 187, 114, 0.856) ;
+}
+#button{
+    background-color: rgb(195, 195, 3);
+    margin: 5px;
+    font-size: 15px;
+}
+#result{
+    
+    background-color: rgba(111, 187, 114, 0.856) ;
+    margin: 24px;
+    padding: 15px;
+}
